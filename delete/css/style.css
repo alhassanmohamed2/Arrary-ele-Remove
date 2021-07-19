@@ -1,0 +1,25 @@
+body {background: #333;}
+.log-boolean,
+.log-undefined {color: magenta;}
+.log-object,
+.log-string {color: orange;font-size: 30px;}
+.log-number {color: cyan;}
+.element{
+    visibility: hidden;
+    padding: 20px;
+    width: fit-content;
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.remove{
+    visibility: hidden;
+    padding: 20px;
+    width: fit-content;
+    font-size: 20px;
+    margin-right: 5px;
+}
+h1  {
+    color: orange;
+    font-size: 40px;
+    }
